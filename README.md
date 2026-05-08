@@ -49,3 +49,4 @@ This project highlights the practical implementation of DAX functions to transfo
 This dashboard helps businesses monitor key operational and financial metrics in a simple and interactive format. By using DAX-powered calculations, organizations can quickly analyze order patterns, profit performance, and customer activity to support better business decisions. The dashboard improves reporting efficiency, enhances data accuracy, and provides actionable insights for performance optimization.
 
 6.screenshot:
+How it look like:https://github.com/bhavyajain0408/DAX-/commit/e08f25112c9f6e00fc5b328fd3e91e822954129d
